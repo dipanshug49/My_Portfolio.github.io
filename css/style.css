@@ -622,6 +622,17 @@ html {
     background: #fff;
     border: 2px solid #b12c14;
   }
+  .resume .resume-item1::before {
+    content: "";
+    position: absolute;
+    width: 16px;
+    height: 16px;
+    border-radius: 50px;
+    left: -9px;
+    top: 0;
+    background: #fff;
+    border: 2px solid #b12c14;
+  }
   
   .like-item {
     padding-top: 10px !important;
